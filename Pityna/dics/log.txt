@@ -1,0 +1,9 @@
+Pityna System Dialogue Log: 2024-05-09 18:05::04
+> お腹すいた、パスタ食べたい
+pityna:Pattern> あやのっち元気
+> お腹すいた、パスタ食べたい
+pityna:Pattern> お腹すいた、パスタ食べたい
+> パスタ食べたい
+pityna:Template> パスタってかわいい～
+> いいよねパスタ
+pityna:Pattern> お腹すいた、パスタ食べたい
